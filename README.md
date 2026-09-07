@@ -202,26 +202,9 @@ A lightweight system-tray internet radio player for Linux built around `mpv`.
 
 ### walite
 
-A lightweight, keyboard-driven WhatsApp client for Linux terminals, written in Go.
+A lightweight, keyboard-driven WhatsApp client for Linux terminals, with text messaging, quoted replies, persistent chat caching and configurable themes.
 
-walite connects as a WhatsApp linked device through `whatsmeow` and is designed around bounded resource use, fast cached startup and a terminal-first workflow.
-
-Current features include:
-
-- QR pairing and persistent reconnects
-- Broad HistorySync-backed chat list
-- Persistent SQLite cache
-- Incoming and outgoing text messages
-- Quoted replies
-- Contact, group and participant name resolution
-- Local unread state and WhatsApp read receipts
-- Date-aware message history
-- Persistent settings
-- Terminal, Dark, Light and High contrast themes
-
-The project started as an experiment to make WhatsApp practical on an old Linux laptop without relying on a heavyweight browser client.
-
-**Go · Linux · TUI · SQLite · WhatsApp · Low-resource software**
+**Go · Linux · TUI · SQLite**
 
 [View repository →](https://github.com/antoinebaudrimont-beep/walite)
 
