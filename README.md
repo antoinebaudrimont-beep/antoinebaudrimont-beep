@@ -190,24 +190,25 @@ Fiji/ImageJ and Python utilities for preprocessing multi-channel DeltaVision mic
 
 ---
 
-## Beyond research
+## Personal software projects
 
-I also enjoy Linux and small software projects that solve practical problems.
+I work on applications that solve practical problems in everyday computer use. My contribution centres on defining interfaces and expected behaviour, directing AI-assisted implementation, and testing installation, usability, and interaction with other software.
 
 ### mpv-radio-tray
 
-A lightweight system-tray internet radio player for Linux built around `mpv`.
+An internet radio player for Linux and macOS, with saved station settings, audio-output selection, and recovery from interrupted playback. It uses mpv on Linux and native audio playback on macOS. The repository documents installation, configuration, testing, and known limitations.
+
+**Project technologies:** Python · Swift · Linux · macOS
 
 [View repository →](https://github.com/antoinebaudrimont-beep/mpv-radio-tray)
 
 ### walite
 
-A lightweight, keyboard-driven WhatsApp client for Linux terminals, with text messaging, quoted replies, persistent chat caching and configurable themes.
+A lightweight, keyboard-driven, unofficial WhatsApp client for Linux and macOS terminals. Features include messaging, quoted replies, persistent local chat caching, configurable themes, and desktop notifications. The repository documents installation, upgrades, and rollback procedures.
 
-**Go · Linux · TUI · SQLite**
+**Project technologies:** Go · SQLite · Linux · macOS
 
 [View repository →](https://github.com/antoinebaudrimont-beep/walite)
-
 ---
 
 <p align="center">
